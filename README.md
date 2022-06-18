@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whicencer
 - 👀 I’m interested in Front-End Developing
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me: Telegram - @whicencer12
 
 <!---
