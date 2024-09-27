@@ -8,7 +8,7 @@
     <h4>Languages</h4>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/tact-%230f0f0f?style=for-the-badge&logo=ton&logoColor=%23fff" />
+    <img src="https://img.shields.io/badge/tact-black?style=for-the-badge&logo=ton&logoColor=%23fff" />
   </div>
 </div>
 
